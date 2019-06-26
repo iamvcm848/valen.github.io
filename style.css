@@ -1,0 +1,290 @@
+
+.showleft{
+    margin-top:90px;
+    
+
+}
+.showright{
+   text-align:center;
+   margin-top:100px;
+   color:white;
+}
+#showcase img{
+    width:90%;
+    padding:10px;
+    margin:5px;
+    border:4px solid gray;
+    border-radius: 100px;
+    background-color: #eee8e8;
+    
+}
+.nav-item{
+    border-right: 1px solid red;
+}
+#showcase{
+    background-image: url("http://www.gsfdcy.com/data/img1/62/1853528-office-wallpaper.jpg"); 
+    background-size: cover;
+   
+}
+
+
+.reach{
+    background-color:whitesmoke;
+    padding: 3%;
+    margin-right: 0%;
+    
+  }
+  .a1{
+    background-color:transparent;
+   
+    margin:5px;
+    font-size: 100%;
+  }
+  .a2{
+    background-color:transparent;
+    
+    margin:5px;
+    font-size: 100%;
+    
+  }
+  .a3{
+    background-color:transparent;
+  
+    margin:5px;
+    font-size: 100%;
+  }
+  .r1{
+    background-color:white;
+    padding:10px;
+    margin:5px;
+    border:4px solid gray;
+    border-radius: 25px;
+    
+  }
+  .r2{
+    background-color:white;
+    padding:10px;
+    margin:5px;
+    border:4px solid gray;
+    border-radius: 25px;
+  }
+  .r3{
+    background-color:white;
+    padding:10px;
+    margin:5px;
+    border:4px solid gray;
+    border-radius: 25px;
+  }
+  .e1{
+    background-color:white;
+    padding:10px;
+    margin:5px;
+    border:4px solid gray;
+    border-radius: 25px;
+  }
+  .e2{
+    background-color:white;
+    padding:10px;
+    margin:5px;
+    border:4px solid gray;
+    border-radius: 25px;
+  }
+  .e3{
+    background-color:white;
+    padding:10px;
+    margin:5px;
+    border:4px solid gray;
+    border-radius: 25px;
+  }
+  .ro1{
+    background-color:white;
+    padding:10px;
+    margin:5px;
+    border:4px solid gray;
+    border-radius: 25px;
+  }
+  .ro2{
+    background-color:white;
+    padding:10px;
+    margin:5px;
+    border:4px solid gray;
+    border-radius: 25px;
+  }
+  .ro3{
+    background-color:white;
+    padding:10px;
+    margin:5px;
+    border:4px solid gray;
+    border-radius: 25px;
+  }
+  .container-fluid-e1{
+ 
+    border:4px solid gray;
+    border-radius: 10px;
+    text-align:center;
+  }
+  .m1{
+    background-image:url("images/v.jpg");
+    margin-left:15px;
+    padding:10px;
+    border:3px;
+    background-size: cover;
+    color:white;
+   
+  }
+  footer{
+    padding: 5px 10px;
+    margin-right: 0px !important;
+    background-color: #0f4679;
+  }
+  .text-copyright{
+    text-align: center;
+    margin: 5px;
+    color: azure;
+    font-size: 15px;
+    font-family: 'Roboto';
+    letter-spacing: 1px;
+    font-weight: 100;
+  }  
+  #myBtn{
+    height: 50px;
+    width: 50px;
+    display: none; 
+    position: fixed;
+    bottom: 20px; 
+    right: 30px; 
+    z-index: 99; 
+    border: none; 
+    outline: none;
+    background-color: #555;
+    color: #f1f1f1;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 50%;
+    font-size: 18px;
+    opacity: 0.9;
+    font-size:25px;
+  }
+  
+  #myBtn:hover {
+    background-color: #0f4679;
+    color: #eee8e8;
+    padding: 2px;
+    bottom: 25px;  
+    opacity: 1;
+    font-size: 30px;
+    transition: all 0.3s;
+  }
+  .owner{
+    font-family: 'Rubik Mono One', sans-serif;
+    
+  }
+  .powner{
+    font-family: 'Mali', cursive;
+  }
+  h2{
+    
+    font-family: 'Oswald', sans-serif;
+  }
+  .bloc-logo {
+    
+    width: 130px;
+    height: 49px;
+    float: left;
+}
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+  font-size: 30px;
+  width:40px;
+  text-align: center;
+  text-decoration: none;
+  
+  border-radius: 50%;
+}
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+  font-size: 30px;
+  width:40px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+.fa-google {
+  background: #dd4b39;
+  color: white;
+  font-size: 30px;
+  width:40px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+#contact{
+  text-align: center;
+}
+#contact1{
+  text-align: center;
+}
+
+#contact2{
+  text-align: center;
+}
+
+#contact3{
+  text-align: center;
+}
+#heading1{
+  color:black;
+}
+
+.container-fluid{
+  width:100%;
+  margin:0px;
+  padding:0px;
+  border:0px;
+}
+#val1{
+  margin-bottom:100px;
+  margin-right:20px;
+  font-size: 20px;
+}
+.y2{
+  font-family: 'Rubik Mono One', sans-serif;
+}
+.y3{
+  font-family: 'Gloria Hallelujah', cursive;
+}
+.y4{
+  font-family: 'Cutive Mono', monospace;
+}
+#val2{
+  margin-bottom:100px;
+  font-size: 20px;
+}
+.swiper-container {
+  width: 100%;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin-bottom:30px;
+}
+.swiper-slide {
+  background-position: center;
+  background-size: cover;
+  width: 300px;
+  height: 300px;
+}
+.details{
+  background-color:whitesmoke;
+  margin-top:270px;
+}
+.own{
+  text-align:center;
+  color:blue;
+  font-family: 'Gloria Hallelujah', cursive;
+  font-size:70px;
+}
+#pro{
+  background-color: yellowgreen;
+  height:100%;
+}
